@@ -26,3 +26,4 @@ python pdf_merger_gui.py
 ```
 
 Enjoy merging your PDFs!
+![PDF-Merger](https://github.com/user-attachments/assets/de2a61eb-27a6-4638-8480-e0d0704506f2)
